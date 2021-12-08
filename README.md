@@ -1,4 +1,4 @@
 # ToxicCommentClassification
 Kaggle challenge: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
-[model0](): simple LSTM + GloVe
+1. [model0](): simple LSTM + GloVe
